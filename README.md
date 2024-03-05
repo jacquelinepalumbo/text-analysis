@@ -89,6 +89,31 @@ Selecione **Frase 1** novamente para fechar.
 
 Neste exercício, você usou o Language Studio para criar um novo recurso de idioma ou usar um recurso de idioma existente. Você habilitou o recurso em Configurações antes de experimentar o serviço de mineração de sentimento e opinião. Em seguida, você testou o serviço com três partes de texto.
 
+## Insights:
+
+1. Sentece:
+   `` Tired hotel with poor service ``
+
+   <img width="536" alt="image" src="https://github.com/jacquelinepalumbo/text-analysis/assets/119548193/ea99de16-3348-40ea-8152-bb120a016679">
+
+* A análise foi considerada 96% negativa. O hóspede qualificou o hotel negativamente. O adjetivo 'poor' service qualificou o Hotel com um serviço abaixo do considerado satisfatório.
+
+
+2. Sentence:
+  `` The internet didn't work and had to come to one of their office rooms to check in for my flight home.``
+
+<img width="489" alt="image" src="https://github.com/jacquelinepalumbo/text-analysis/assets/119548193/8d0e2428-d3b4-4408-bc49-053bec622b18">
+
+* A análise foi considerada 99% negativa:ja que um dos serviços oferecidos pelo hotel, a internet, não funcionava. Reforçando, mais um vez, que o o serviço prestado pelo hotel é ruim.
+
+3. Sentence:
+     ``The website says it's close to the British Museum, but it's too far to walk.``
+
+<img width="469" alt="image" src="https://github.com/jacquelinepalumbo/text-analysis/assets/119548193/5a48c343-2f3b-4c94-b934-9436a3fb1707">
+
+
+* A análise foi considerada 91% negativa: No site do hotel informava que a localização do British Museum era próxima, mas na realidade era distante.
+O que impussionou a insatisfação do hóspede com o local. Pois, além do serviço ser considerado ruim, a localização geográfica do hotel não favorecia a hospedagem do cliente em questão já que não atendia as necessidades deste consumidor.
 
 # Referências:
 
