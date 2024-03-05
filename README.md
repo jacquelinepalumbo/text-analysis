@@ -1,4 +1,4 @@
-# Analisar texto com o Language Studio
+# Text Analytics with Azure AI services
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
 
