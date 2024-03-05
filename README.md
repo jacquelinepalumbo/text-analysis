@@ -1,5 +1,6 @@
 # Analisar texto com o Language Studio
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
 
 Neste exercício, você explorará os recursos da Linguagem de IA do Azure analisando alguns exemplos de avaliações de hotéis. Você usará o Language Studio para entender se as avaliações são majoritariamente positivas ou negativas.
 
@@ -82,6 +83,16 @@ Selecione **Frase 1** novamente para fechar.
 3. Selecione **Limpar caixa de texto** novamente e copie e cole a seguinte revisão:
 
 ``Muito barulhento e os quartos são minúsculos The Lombard Hotel, São Francisco, EUA 9/5/2018 O hotel está localizado na rua Lombard, que é uma rua SIX lane muito movimentada diretamente da ponte Golden Gate. Trânsito desde o início da manhã até tarde da noite, especialmente nos fins de semana. O ruído não seria tão ruim se os quartos fossem mais bem isolados, mas não são. Tive que colocar bolas de algodão nos ouvidos para conseguir dormir – estava muito cansado para curtir a cidade no dia seguinte. Os quartos são TINY. Escolhi o quarto porque tinha duas camas queen size – mas o quarto mal tinha espaço para encaixá-las. Com família de quatro pessoas no quarto, era apertado. Com tudo isso dito, os quartos são limpos e eles fizeram um esforço para atualizá-los. O hotel fica no bairro de Marina, com muitos bons lugares para comer, a uma curta distância a pé do Presidio. Pode ser um bom hotel para jovens adultos com um orçamento``
+
+
 4. Selecione **Executar** e revise o sentimento junto com o nível de confiança. Dê uma olhada no texto e compare o texto com a análise de sentimento que o serviço retornou.
 
 Neste exercício, você usou o Language Studio para criar um novo recurso de idioma ou usar um recurso de idioma existente. Você habilitou o recurso em Configurações antes de experimentar o serviço de mineração de sentimento e opinião. Em seguida, você testou o serviço com três partes de texto.
+
+
+# Referências:
+
+
+[Explore text with Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
+
+&nbsp;
